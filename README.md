@@ -6,10 +6,6 @@ This repository showcases how to effectively query a subgraph on The Graph using
 
 The application code is in .\lib\main.dart.
 
-Here is a screenshot of the application running on a desktop
-
-Here is a screenshot of the application running on a mobile device
-
 ## How To Use
 
 1. Ensure that your have flutter installed on your computer
